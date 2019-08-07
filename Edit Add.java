@@ -1,5 +1,6 @@
 public class Add {
     public Double add(double number1, double number2){
-        return 5+2 ;
+	double result number1=number2;
+        return result;
     }
 }
